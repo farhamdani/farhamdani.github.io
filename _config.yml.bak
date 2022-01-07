@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Farhamdani"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "Farhamdani"
+description              : "Hanya seorang pria yang hoby cari receh di internet untuk melunasi cicilan panci, mari berteman dengan saya!"
+url                      : "https://farhamdani.github.io"
+baseurl                  : "https://farhamdani.github.io"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Farhamdani"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Hanya seorang pria yang hoby cari receh di internet untuk melunasi cicilan panci, mari berteman dengan saya!"
   location         : "Somewhere"
   email            :
   uri              :
